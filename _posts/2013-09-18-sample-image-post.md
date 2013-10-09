@@ -6,9 +6,9 @@ tags: Sample
 ---
 
 Regular Image:
-![alt text](/assets/img/black.jpg "Black Caviar")
+![alt text]({{ site.url }}assets/img/black.jpg "Black Caviar")
 
 Or With a frame:
 ![alt text][red]
 
-[red]: /assets/img/red.jpg "Red Caviar"
+[red]: {{ site.url }}assets/img/red.jpg "Red Caviar"
