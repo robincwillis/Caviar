@@ -1,5 +1,5 @@
 name: Caviar
-markdown: redcarpet-pygments
+markdown: redcarpet
 pygments: true
 url: "http://robincwillis.github.io/Pyramid/"
 paginate: 10
