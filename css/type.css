@@ -1,0 +1,85 @@
+body{
+		font: normal 400 16px/26px "minion-pro", "Times New Roman", Times, serif;
+		line-height: 1.4;
+		color: #838383;
+		background: #f7f7f7;
+	}
+
+	h1, h2, h3, h4, .nav,.tags, .contact{
+		text-align: center;
+	}
+
+	.nav{
+		z-index: 100;
+		position: fixed;
+		background-color: rgba(255,255,255,0.9);
+		width: 100%;
+		padding:10px 0;
+		-moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+-webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+	}
+
+	.nav a{
+		border-right: 1px solid #838383;
+		padding:0 10px;
+			font-size: 18px;
+			line-height: 18px;
+			height:18px;
+		color: #838383;
+	}
+
+	.nav a:last-child{
+		border-right: none;
+	}
+
+	.post-nav{
+
+/*		width: 80%;*/
+    margin: 0 auto;
+	}
+	.posts li{
+		padding:10px 0;
+		border-top:1px solid #838383;
+	}
+
+	div.sidebar{
+		background-color: rgb(255,255,255);
+	}
+	.header{
+		padding-top:100px;
+	}
+
+	h1{
+		font-size: 76px;
+		color: #333333;
+		font-weight: 100;
+		-webkit-margin-before: 0.20em;
+		-webkit-margin-after: 0.20em;
+	}
+
+	h2{
+		font-size: 36px;
+		font-weight: 100;
+		line-height: 1;
+		margin: 45px 0 6px;
+	}
+
+	h3{
+
+		color: #333333;
+		font-size: 24px;
+		font-weight: 100;
+
+	}
+
+	li p, p, ul{
+		font-size: 18px;
+		line-height: 24px;
+
+	}
+
+	a{
+		text-decoration: none;
+		color:#333;
+	}
