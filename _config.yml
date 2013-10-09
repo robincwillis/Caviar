@@ -1,6 +1,6 @@
 name: Caviar
 markdown: redcarpet
 pygments: true
-url: "http://robincwillis.github.io/Pyramid/"
+url: "http://robincwillis.github.io/Caviar/"
 paginate: 10
 permalink: pretty
